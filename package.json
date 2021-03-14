@@ -9,9 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Vue","React","Angular","CLI","cli"],
+  "author": "guoyuovo",
+  "license": "MIT",
+  "homepage": "https://github.com/guoyuovo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guoyuovo/ovo-cli"
+  },
   "dependencies": {
     "@darkobits/lolcatjs": "^3.1.3",
     "commander": "^7.1.0",
